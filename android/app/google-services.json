@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "550873151113",
+    "project_id": "stalker-bb55d",
+    "storage_bucket": "stalker-bb55d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550873151113:android:609bf14ef3c5a1681b7858",
+        "android_client_info": {
+          "package_name": "com.example.stalker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550873151113-rs7jq9kml8ieidpo6gkpccm91djoqbdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAThue00Nf0N-V76jmeFIAWafcKaHSrTaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550873151113-rs7jq9kml8ieidpo6gkpccm91djoqbdl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "550873151113-s5mv2o7l7020dhmgvjpmdn5rvkdg8b77.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stalker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
